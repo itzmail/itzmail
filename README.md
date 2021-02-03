@@ -23,8 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailifyk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ismailify's Github Stats">
 
 </br>
-
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailify&layout=compact)](https://github.com/ismailify) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@5400614d-78ac-4e7b-9447-62ccf2507612/f04513e4-f969-4c24-8376-f7c8b8870ba3.png" /></a>
 
