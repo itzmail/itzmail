@@ -24,7 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailify&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ismailify/github-readme-stats)
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailify&layout=compact)](https://github.com/ismailify) 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@5400614d-78ac-4e7b-9447-62ccf2507612/f04513e4-f969-4c24-8376-f7c8b8870ba3.png" /></a>
 
