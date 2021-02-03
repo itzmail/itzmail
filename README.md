@@ -26,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5400614d-78ac-4e7b-9447-62ccf2507612/2d9a62de-c84a-4f6c-8471-ef1000eba135.png" /></a>
+<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
