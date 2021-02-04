@@ -7,8 +7,8 @@
 - 💼 &nbsp; Android developer. <br>
 - 🌱 &nbsp; Enthusiast in Bussines and Artificial Intelligence. <br>
 - ✍️ &nbsp; Watching Anime, coding, play game. <br>
+
 <h3>🛠 Tech Stack</h3> 
-#### 💻:keyboard: Languages and Tools 
 
 <!--  **Python**:
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
