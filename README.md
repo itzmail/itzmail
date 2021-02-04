@@ -1,13 +1,13 @@
 <h2> Hey there! I'm Ismail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; I’m currently learning JavaScript with framework is React-Native
-- 🤔 &nbsp; Exploring new technologies and developing software
-- 🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer.
-- 💼 &nbsp; Android developer.
-- 🌱 &nbsp; Enthusiast in Bussines and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, coding, play game. 
-<h3>🛠 Tech Stack</h3>
+- 🔭 &nbsp; I’m currently learning JavaScript with framework is React-Native <br>
+- 🤔 &nbsp; Exploring new technologies and developing software <br>
+- 🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br>
+- 💼 &nbsp; Android developer. <br>
+- 🌱 &nbsp; Enthusiast in Bussines and Artificial Intelligence. <br>
+- ✍️ &nbsp; Watching Anime, coding, play game. <br>
+<h3>🛠 Tech Stack</h3> 
 - 💻 &nbsp; HTML | CSS | PHP | JavaScipt
 <!-- - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
