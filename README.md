@@ -1,36 +1,129 @@
-<h2> Hey there! I'm Ismail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; I’m currently learning JavaScript with framework is React-Native <br>
-- 🤔 &nbsp; Exploring new technologies and developing software <br>
-- 🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br>
-- 💼 &nbsp; Android developer. <br>
-- 🌱 &nbsp; Enthusiast in Bussines and Artificial Intelligence. <br>
-- ✍️ &nbsp; Watching Anime, coding, play game. <br>
+<h2> Hey there! I'm Ismail. 👋</h2>
 
-<h3>🛠 Tech Stack</h3>
+<details>
+<summary>👨🏻‍💻 About Me</summary>
+🔭 &nbsp; I’m currently learning JavaScript with framework is React-Native <br>
+🤔 &nbsp; Exploring new technologies and developing software <br>
+🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br>
+💼 &nbsp; Android developer. <br>
+🌱 &nbsp; Enthusiast in Bussines and Software Development. <br>
+✍️ &nbsp; Watching Anime, coding, play game, Read books. <br>
+</details>
 
-## Language
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width=50 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width=40 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width=40 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width=40 />
-
-## Tools
-
-**Text Editor :**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg" alt="vscode" width=30 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width=30 />
-
-**Framework :**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width=30 />
-
-**Version Control :**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width=30 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=30 />
+<details>
+<summary>🛠 Tech Stack</summary>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+    <br>
+    
+  </kbd>
+   <kbd>
+    <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <br>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  </kbd>
+  <!-- <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd> -->
+  <br>
+  <br>
+  <!-- <kbd>
+    <kbd>Data Science & AI</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  </kbd> -->
+ 
+  <!-- <kbd>
+    <kbd>System, Networking & Deployment</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  </kbd> -->
+  
+   <!-- <kbd>
+    <kbd>Game Development</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  </kbd> -->
+</p>
+</details>
 
 <br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  <br>
+
+
+| MyGithub Stats | Top Language |
+|--------------|-----------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmail&show_icons=true&theme=tokyonight) </br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmail&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmail&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+
+  <br>
+
+
+ <table align="center"> 
+  <tr align="center">
+    <th >WakaTime</th>
+  </tr>
+  <tr>
+  <th>
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzmail)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  </th>
+  </tr>
+ </table>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
