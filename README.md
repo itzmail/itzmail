@@ -122,9 +122,14 @@
   <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzmail&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  -->
   <!--START_SECTION:waka-->
 
-    
+```text
+Markdown     1 hr 17 mins    █████████▒░░░░░░░░░░░░░░░   37.74 %
+SCSS         1 hr 3 mins     ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+JavaScript   54 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+Java         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   </th>
   </tr>
