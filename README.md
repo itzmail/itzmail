@@ -132,6 +132,13 @@
   </tr>
  </table>
 
+<p align="center">
+<h3>My Trophies</h3>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=itzmail&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
