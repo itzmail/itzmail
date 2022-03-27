@@ -140,7 +140,6 @@ PHP          21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  </table>
 
 <h3>My Trophies</h3>
-<p align="center">
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=itzmail&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
