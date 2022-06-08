@@ -105,9 +105,9 @@
   <br>
 
 
-| MyGithub Stats | Top Language |
-|--------------|-----------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmail&show_icons=true&theme=tokyonight) </br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmail&theme=tokyonight)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmail&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| MyGithub Stats |
+|--------------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmail&show_icons=true&theme=tokyonight) </br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmail&theme=tokyonight)](https://git.io/streak-stats) | 
 
   <br>
 
