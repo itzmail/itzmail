@@ -10,7 +10,7 @@
 ✍️ &nbsp; Watching Anime, coding, play game, Read books. <br>
 </details>
 
-<details></details>
+<details>
 <summary>🛠 Tech Stack</summary>
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -140,7 +140,7 @@ Groovy         13 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <h3>My Trophies</h3>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=itzmail&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=itzmail&theme=tokyonight)](https://**github**.com/ryo-ma/github-profile-trophy)
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
