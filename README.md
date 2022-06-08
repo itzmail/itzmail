@@ -10,7 +10,7 @@
 ✍️ &nbsp; Watching Anime, coding, play game, Read books. <br>
 </details>
 
-<details>
+<details></details>
 <summary>🛠 Tech Stack</summary>
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -97,19 +97,15 @@
 </p>
 </details>
 
-<br>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   <br>
 
-
-| MyGithub Stats |
-|--------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmail&show_icons=true&theme=tokyonight) </br> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmail&theme=tokyonight)](https://git.io/streak-stats) | 
-
-  <br>
+  | MyGithub Stats  |  Summary  | 
+  |-------------- | -------------- | 
+  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmail&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmail&theme=tokyonight)](https://git.io/streak-stats) | 
+  
 
 
  <table align="center"> 
@@ -139,9 +135,15 @@ Groovy         13 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </tr>
  </table>
 
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 <h3>My Trophies</h3>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=itzmail&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
