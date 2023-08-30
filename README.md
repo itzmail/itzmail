@@ -2,7 +2,7 @@
 
 <details open>
 <summary>👨🏻‍💻 About Me</summary>
-🔭 &nbsp; I’m currently learning Flutter <br>
+<!-- 🔭 &nbsp; I’m currently learning Flutter <br> -->
 🤔 &nbsp; Exploring new technologies and developing software <br>
 🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br>
 💼 &nbsp; Android developer. <br>
