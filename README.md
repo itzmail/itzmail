@@ -4,8 +4,8 @@
 <summary>👨🏻‍💻 About Me</summary>
 <!-- 🔭 &nbsp; I’m currently learning Flutter <br> -->
 🤔 &nbsp; Exploring new technologies and developing software <br>
-🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br>
-💼 &nbsp; Android developer. <br>
+<!-- 🎓 &nbsp; Science in High School and now i;m studying in Pondok Programmer. <br> -->
+💼 &nbsp; Software Engineer <br>
 🌱 &nbsp; Enthusiast in Bussines and Software Development. <br>
 ✍️ &nbsp; Watching Anime, coding, play game, Read books. <br>
 </details>
